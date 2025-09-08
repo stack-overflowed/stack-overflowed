@@ -1,3 +1,3 @@
 # Hello, I'm Shresth Pratap  
-I'm a machine learning engineer. I build different kinds of models, mostly using PyTorch.  
+I'm a software developer. I build different kinds thing mostly fun ones.  
 If you’d like to chat, feel free to reach out by email.  
