@@ -1,2 +1,2 @@
 # Hello, I'm Shresth Pratap  
-I like to build machine learning models. 
+I like to build fun things in my free time.
